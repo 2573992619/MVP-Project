@@ -1,0 +1,478 @@
+{
+  "almonds": [
+    7,
+    6
+  ],
+  "antioxydant juice": [
+    3,
+    1
+  ],
+  "asparagus": [
+    3,
+    8
+  ],
+  "avocado": [
+    5,
+    8
+  ],
+  "babies food": [
+    1,
+    3
+  ],
+  "bacon": [
+    7,
+    4
+  ],
+  "barbecue sauce": [
+    3,
+    8
+  ],
+  "black tea": [
+    5,
+    8
+  ],
+  "blueberries": [
+    3,
+    2
+  ],
+  "body spray": [
+    7,
+    1
+  ],
+  "bramble": [
+    3,
+    7
+  ],
+  "brownies": [
+    7,
+    8
+  ],
+  "bug spray": [
+    7,
+    2
+  ],
+  "burger sauce": [
+    7,
+    7
+  ],
+  "burgers": [
+    7,
+    7
+  ],
+  "butter": [
+    7,
+    1
+  ],
+  "cake": [
+    5,
+    7
+  ],
+  "candy bars": [
+    3,
+    7
+  ],
+  "carrots": [
+    7,
+    6
+  ],
+  "cauliflower": [
+    1,
+    4
+  ],
+  "cereals": [
+    3,
+    5
+  ],
+  "champagne": [
+    3,
+    4
+  ],
+  "chicken": [
+    5,
+    2
+  ],
+  "chili": [
+    7,
+    3
+  ],
+  "chocolate": [
+    7,
+    3
+  ],
+  "chocolate bread": [
+    5,
+    6
+  ],
+  "chutney": [
+    1,
+    7
+  ],
+  "cider": [
+    7,
+    4
+  ],
+  "clothes accessories": [
+    3,
+    8
+  ],
+  "cookies": [
+    3,
+    3
+  ],
+  "cooking oil": [
+    1,
+    2
+  ],
+  "corn": [
+    5,
+    8
+  ],
+  "cottage cheese": [
+    1,
+    6
+  ],
+  "cream": [
+    3,
+    5
+  ],
+  "dessert wine": [
+    3,
+    6
+  ],
+  "eggplant": [
+    1,
+    2
+  ],
+  "eggs": [
+    3,
+    1
+  ],
+  "energy bar": [
+    1,
+    5
+  ],
+  "energy drink": [
+    5,
+    4
+  ],
+  "escalope": [
+    5,
+    2
+  ],
+  "extra dark chocolate": [
+    3,
+    3
+  ],
+  "flax seed": [
+    7,
+    3
+  ],
+  "french fries": [
+    1,
+    8
+  ],
+  "french wine": [
+    5,
+    3
+  ],
+  "fresh bread": [
+    7,
+    5
+  ],
+  "fresh tuna": [
+    7,
+    4
+  ],
+  "fromage blanc": [
+    5,
+    7
+  ],
+  "frozen smoothie": [
+    7,
+    2
+  ],
+  "frozen vegetables": [
+    1,
+    1
+  ],
+  "gluten free bar": [
+    7,
+    3
+  ],
+  "grated cheese": [
+    7,
+    5
+  ],
+  "green beans": [
+    5,
+    6
+  ],
+  "green grapes": [
+    7,
+    7
+  ],
+  "green tea": [
+    7,
+    6
+  ],
+  "ground beef": [
+    3,
+    6
+  ],
+  "gums": [
+    7,
+    8
+  ],
+  "ham": [
+    7,
+    8
+  ],
+  "hand protein bar": [
+    7,
+    1
+  ],
+  "herb & pepper": [
+    5,
+    1
+  ],
+  "honey": [
+    3,
+    7
+  ],
+  "hot dogs": [
+    3,
+    6
+  ],
+  "ketchup": [
+    5,
+    1
+  ],
+  "light cream": [
+    7,
+    5
+  ],
+  "light mayo": [
+    5,
+    3
+  ],
+  "low fat yogurt": [
+    5,
+    6
+  ],
+  "magazines": [
+    1,
+    7
+  ],
+  "mashed potato": [
+    1,
+    5
+  ],
+  "mayonnaise": [
+    5,
+    5
+  ],
+  "meatballs": [
+    5,
+    1
+  ],
+  "melons": [
+    1,
+    2
+  ],
+  "milk": [
+    5,
+    3
+  ],
+  "mineral water": [
+    7,
+    1
+  ],
+  "mint": [
+    5,
+    5
+  ],
+  "mint green tea": [
+    7,
+    6
+  ],
+  "muffins": [
+    3,
+    4
+  ],
+  "mushroom cream sauce": [
+    7,
+    7
+  ],
+  "napkins": [
+    1,
+    8
+  ],
+  "nonfat milk": [
+    1,
+    1
+  ],
+  "oatmeal": [
+    5,
+    5
+  ],
+  "oil": [
+    7,
+    4
+  ],
+  "olive oil": [
+    3,
+    6
+  ],
+  "pancakes": [
+    5,
+    3
+  ],
+  "parmesan cheese": [
+    3,
+    1
+  ],
+  "pasta": [
+    1,
+    3
+  ],
+  "pepper": [
+    3,
+    5
+  ],
+  "pet food": [
+    7,
+    8
+  ],
+  "pickles": [
+    1,
+    7
+  ],
+  "protein bar": [
+    3,
+    3
+  ],
+  "red wine": [
+    3,
+    7
+  ],
+  "rice": [
+    1,
+    3
+  ],
+  "salad": [
+    3,
+    8
+  ],
+  "salmon": [
+    3,
+    5
+  ],
+  "salt": [
+    5,
+    1
+  ],
+  "sandwich": [
+    7,
+    2
+  ],
+  "shallot": [
+    7,
+    2
+  ],
+  "shampoo": [
+    5,
+    5
+  ],
+  "shrimp": [
+    3,
+    4
+  ],
+  "soda": [
+    5,
+    4
+  ],
+  "soup": [
+    1,
+    5
+  ],
+  "spaghetti": [
+    5,
+    6
+  ],
+  "sparkling water": [
+    3,
+    1
+  ],
+  "spinach": [
+    5,
+    8
+  ],
+  "strawberries": [
+    1,
+    6
+  ],
+  "strong cheese": [
+    3,
+    2
+  ],
+  "tea": [
+    1,
+    6
+  ],
+  "tomato juice": [
+    5,
+    7
+  ],
+  "tomato sauce": [
+    5,
+    4
+  ],
+  "tomatoes": [
+    7,
+    5
+  ],
+  "toothpaste": [
+    5,
+    2
+  ],
+  "turkey": [
+    1,
+    2
+  ],
+  "vegetables mix": [
+    3,
+    2
+  ],
+  "water spray": [
+    5,
+    2
+  ],
+  "white wine": [
+    5,
+    7
+  ],
+  "whole weat flour": [
+    1,
+    1
+  ],
+  "whole wheat pasta": [
+    1,
+    4
+  ],
+  "whole wheat rice": [
+    1,
+    4
+  ],
+  "yams": [
+    3,
+    3
+  ],
+  "yogurt cake": [
+    3,
+    4
+  ],
+  "zucchini": [
+    5,
+    4
+  ]
+}
